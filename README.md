@@ -6,9 +6,15 @@ The goal of this repository is not only to memorize patterns, but to understand 
 
 ---
 
+## 📖 Articles
+
+* [Architecture Style vs. Architecture Pattern vs. Design Pattern](./architecture-style-vs-pattern-vs-design-pattern.md)
+
+---
+
 ## 📚 Topics
 
-### Architecture Styles
+### 🏛️ Architecture Styles
 
 High-level approaches for organizing the structure of a software system.
 
@@ -17,7 +23,7 @@ High-level approaches for organizing the structure of a software system.
 * [Microservices Architecture](./architecture-styles/microservices.md)
 * [Client-Server Architecture](./architecture-styles/client-server.md)
 
-### Architecture Patterns
+### 🧩 Architecture Patterns
 
 Reusable solutions for common problems at the architectural level.
 
@@ -25,7 +31,7 @@ Reusable solutions for common problems at the architectural level.
 * [CQRS](./architecture-patterns/cqrs.md)
 * [Saga](./architecture-patterns/saga.md)
 
-### Design Patterns
+### 🎨 Design Patterns
 
 Reusable solutions for common software design problems at the class and object level.
 
